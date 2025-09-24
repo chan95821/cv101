@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Images w/ copyright
+*.jpg
+
+#cifar-10 dataset
+image_classification/cifar-10/
