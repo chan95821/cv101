@@ -13,4 +13,4 @@ wheels/
 *.jpg
 
 #cifar-10 dataset
-image_classification/cifar-10/
+image_classification/data/
